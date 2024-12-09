@@ -200,7 +200,7 @@ In this step, we will create new user accounts in osTicket to enable users to su
      - Repeat the above steps to create additional users as needed (e.g., **Ken**).
 
 <p>
-<img src="https://i.imgur.com/gHvbfS3.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 5 27 46 PM" src="https://github.com/user-attachments/assets/99287c12-7e74-4d7d-bc01-8acc13505e41">
 </p>
 
 **Creating Service Level Agreements (SLAs) in osTicket**
@@ -245,7 +245,7 @@ To effectively categorize tickets based on their level of impact, it is essentia
    - **Repeat the SLA Creation Process:**
      - Follow the same steps to create each SLA, ensuring that the resolution times align with the intended severity levels.
 
-<img width="1800" alt="Screenshot 2024-12-09 at 4 46 29 PM" src="https://github.com/user-attachments/assets/0f217c68-ae04-4a02-9f30-a6a213fba06e">
+<img width="1800" alt="Screenshot 2024-12-09 at 5 32 41 PM" src="https://github.com/user-attachments/assets/1d496c3b-273c-418e-b0c8-43ae268813ee">
 
 **Creating Help Topics in osTicket**
 
@@ -289,7 +289,7 @@ Help Topics are essential for guiding users to select the appropriate category t
      - Submit a test ticket and verify that the Help Topics are available for selection, guiding users to categorize their issues accurately.
 
 <p>
-<img src="https://i.imgur.com/v3zTkfy.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 5 46 53 PM" src="https://github.com/user-attachments/assets/4b6345a7-42c2-4f90-8d74-a0c2c056a727">
 </p>
 
 <h2>osTicket Configurations are Complete</h2>
