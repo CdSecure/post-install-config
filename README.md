@@ -69,7 +69,7 @@ To establish a dedicated Department for System Administrators within osTicket, f
    - After entering the necessary information, click **Save** or **Create** to finalize the creation of the **System Administrators** department.
 
 <p>
-<img src="https://i.imgur.com/EQnl5rh.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 4 04 58 PM" src="https://github.com/user-attachments/assets/c42957f5-d4ec-4a71-a90f-4c8e64d783fa">
 </p>
 
 **Creating a Level II Support Team in osTicket**
@@ -158,11 +158,14 @@ To ensure efficient ticket management, it is essential to create new agent accou
    - **Assign to Departments or Teams:**
      - If applicable, assign the agents to specific **departments** or **teams** to streamline ticket distribution and management.
 
+
 <p>
-<img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Configuration Steps"/>
-<img src="https://i.imgur.com/k0lElHH.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 5 02 01 PM" src="https://github.com/user-attachments/assets/59695c3d-9c38-4c7d-b66f-3f2db56d403d">
+<img width="1800" alt="Screenshot 2024-12-09 at 5 09 22 PM" src="https://github.com/user-attachments/assets/60aa3b8d-da9b-4fda-b008-d043ca4dd81e">
+<img width="1800" alt="Screenshot 2024-12-09 at 5 10 28 PM" src="https://github.com/user-attachments/assets/22459cd5-b4e6-4e4c-a8ff-ed550084777c">
+
 </p>
-<img width="1097" alt="Screenshot 2024-12-09 at 1 38 09 PM" src="https://github.com/user-attachments/assets/f59b4972-761b-4a10-8ab7-f6fc9448651a">
+
 
 **Creating New Users in osTicket**
 
@@ -242,7 +245,7 @@ To effectively categorize tickets based on their level of impact, it is essentia
    - **Repeat the SLA Creation Process:**
      - Follow the same steps to create each SLA, ensuring that the resolution times align with the intended severity levels.
 
-<img src="https://i.imgur.com/pI1Cf3Q.png" height="80%" width="80%" alt="Configuration Steps"/>
+<img width="1800" alt="Screenshot 2024-12-09 at 4 46 29 PM" src="https://github.com/user-attachments/assets/0f217c68-ae04-4a02-9f30-a6a213fba06e">
 
 **Creating Help Topics in osTicket**
 
