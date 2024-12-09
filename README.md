@@ -162,6 +162,7 @@ To ensure efficient ticket management, it is essential to create new agent accou
 <img src="https://i.imgur.com/UnYyh3B.png" height="80%" width="80%" alt="Configuration Steps"/>
 <img src="https://i.imgur.com/k0lElHH.png" height="80%" width="80%" alt="Configuration Steps"/>
 </p>
+<img width="1097" alt="Screenshot 2024-12-09 at 1 38 09 PM" src="https://github.com/user-attachments/assets/f59b4972-761b-4a10-8ab7-f6fc9448651a">
 
 **Creating New Users in osTicket**
 
