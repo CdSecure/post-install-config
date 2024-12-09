@@ -43,8 +43,8 @@ After installing osTicket, follow these steps to configure it effectively as a t
    - **Save the New Role:**
      - Click **Save** or **Create** to finalize the role creation.
 <p>
-<img width="1097" alt="Screenshot 2024-12-09 at 1 38 09 PM" src="https://github.com/user-attachments/assets/490a21c8-7ed1-44aa-81d0-9569b743ea5b">
-<img width="1099" alt="Screenshot 2024-12-09 at 1 40 52 PM" src="https://github.com/user-attachments/assets/9ad6a1ef-b105-4b71-a1a8-f5e9c6139826">
+<img width="1800" alt="Screenshot 2024-12-09 at 3 49 58 PM" src="https://github.com/user-attachments/assets/c71c0d64-755c-40d2-8da9-c4f059651bd3">
+<img width="1800" alt="Screenshot 2024-12-09 at 3 56 03 PM" src="https://github.com/user-attachments/assets/ca542de5-6362-429a-826a-12e6db950658">
 </p>
 
 **Creating a New Department for System Administrators in osTicket**
