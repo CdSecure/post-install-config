@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This lab demonstrates the necessary changes I make to configure osTicket so it can be used as a proper ticketing system.<br />
+As the next step in setting up osTicket, this lab walks through the necessary changes to configure it into a fully functional ticketing system.
+<br />
 
 <h2>Environments and Technologies Used</h2>
 
